@@ -15,7 +15,7 @@ A simple command-line Python program that performs **basic arithmetic operations
 ### 1. Run the program
 
 ```bash
-python arithmetic.py
+python main.py
 ```
 
 ### 2. Follow the prompts:
